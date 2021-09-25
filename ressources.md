@@ -1,12 +1,15 @@
 
-# Ressources pour le numérique
+<h1 style="text-align: center; color: blue;">Ressources pour le numérique</h1>
 
 ## Concours
-<br>
 
-### - Castor Informatique (Novembre | Collège, lycée)
-Il ne s'agit pas d'un concours de programmation (aucun prérequis n'est nécessaire pour participer) mais il couvre divers aspects de l'informatique : information et représentation, pensée algorithmique, utilisation des applications, structures de données, jeux de logique, informatique et société.
-Il a lieu sur internet au mois de novembre chaque année depuis 2011. Il est réservé aux collégiens et lycéens, mais les sujets sont donnés en accès public peu après le concours et toutes les annales peuvent être résolues en ligne dans les même conditions que le concours original.
+
+### - Castor Informatique (Collège, lycée | Novembre)
+<img style="text-align:center; margin:auto; display:flex;" class="fit-picture"
+     src="/images/castor_small.png"
+     alt="Castor informatique">
+<p>Il ne s'agit pas d'un concours de programmation (<strong>aucun prérequis</strong> n'est nécessaire pour participer) mais il couvre divers aspects de l'informatique : information et représentation, pensée algorithmique, utilisation des applications, structures de données, jeux de logique, informatique et société.</p>
+<p>Il a lieu sur internet au mois de novembre chaque année depuis 2011. Il est réservé aux collégiens et lycéens, mais les sujets sont donnés en accès public peu après le concours et toutes les annales peuvent être résolues en ligne dans les même conditions que le concours original.</p>
 Lien : https://concours.castor-informatique.fr/
 ### - Le concours Algoréa (de la classe de CM1 à la classe de terminale) : https://algorea.org/
 Le concours Algoréa est un concours de programmation gratuit, et ouvert à tous. Les élèves français ou résidant en France et scolarisés du CM1 à la 1re ont la possibilité de se qualifier pour un stage (fin août) sur Paris qui se conclut par une grande finale.
@@ -23,12 +26,11 @@ Prologin est un concours français destiné aux moins de 20 ans. Il est composé
  Google Code Jam, Google Hash Code, CodeChef, Top Coder, Primers.
 
 <br>
-<br>
+
 
 
 ## Plateformes d’entrainement à la programmation :
 
-<br>
 
 ### Tester ses compétences numériques générales :
 
@@ -58,7 +60,6 @@ Prologin est un concours français destiné aux moins de 20 ans. Il est composé
 
 ### Site interactif d'initiation à la résolution de problèmes mathématiques avancés : 
 - https://www.mathraining.be/
-<br>
 <br>
 
 ## Les filles dans le numérique
